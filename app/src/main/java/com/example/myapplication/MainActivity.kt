@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
      */
     private fun rollDice() {
         // Create new Dice object with 6 sides and roll the dice
+        //test
         val dice = Dice(6)
         val diceRoll = dice.roll()
 
